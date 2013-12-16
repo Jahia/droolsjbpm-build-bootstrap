@@ -12,6 +12,7 @@
   <groupId>org.kie</groupId>
   <artifactId>kie-bom</artifactId>
   <packaging>pom</packaging>
+  <version>6.0.0.Final-jahia</version>
 
   <name>KIE BOM (Bill Of Materials)</name>
   <description>
